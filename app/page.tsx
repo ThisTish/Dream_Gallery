@@ -1,6 +1,8 @@
+
+
 import Image from "next/image"
 import { v2 as cloudinary } from "cloudinary"
-import Gallery from './pages/Gallery'
+import Gallery from './components/Gallery'
 
 cloudinary.config({
   cloud_name: process.env.NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME,
