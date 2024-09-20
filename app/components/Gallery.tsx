@@ -1,5 +1,4 @@
 
-import Image from "next/image"
 import { Photo } from "react-photo-album"
 import { v2 as cloudinary } from "cloudinary"
 import { MasonryPhotoAlbum } from "react-photo-album";
