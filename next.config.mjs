@@ -9,6 +9,11 @@ const nextConfig = {
                 port: "",
                 pathname: "/dnvibzwty/**",
             },
+            {
+                protocol: "https",
+                hostname: "assets.react-photo-album.com",
+                port: "",
+            },
         ],
     },
 };
